@@ -1,0 +1,12 @@
+1-Path for the input files should be-
+"/home/hduser/Pooja/hadoop-1.2.1/wordcount_classes/input"
+Therefore, please create appropriate folders and insert all your input files in the above mentioned path. This program does not take any command line arguments
+2-Unzip the f2011056PCA1.tar.gz compressed file and keep all the folders in 
+"/home/hduser/Pooja/hadoop-1.2.1/wordcount_classes/"
+3- Output1: Top K pairs can be seen in /home/hduser/Pooja/hadoop-1.2.1/wordcount_classes/pair/pairfile.txt
+4- Output2: LCS of K' documents would be printed on the console
+5- Value of k is chosen to be 4. To change this value, modify the first line in driver2() of lcsLength.java file accordingly. 
+
+For any compilation issues, please contact-
+Poojagarg.04@gmail.com
+7891996926
